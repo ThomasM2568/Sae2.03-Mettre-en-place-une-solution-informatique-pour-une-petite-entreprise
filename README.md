@@ -1,2 +1,0 @@
-# Sae23-George-Raynaud-Mirbey
-Repertoire contenant notre travail pour la Saé23 : Mettre en place une solution informatique pur une petite entreprise. Nous devions mettre en place une solution informatique en php/javascript utilisant une base de données MySQL pour gérer le covoiturage entre étudiants de notre université. Il fallait également extraire des données d'un fichier structuré de type json afin de remplir les différentes tables. Qu'est ce qu'une Sae ? -> https://fr.wikipedia.org/wiki/Situation_d%27apprentissage_et_d%27%C3%A9valuation
